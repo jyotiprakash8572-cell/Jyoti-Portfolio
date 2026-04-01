@@ -1,0 +1,14 @@
+.tt{
+      background:linear-gradient(125deg,#1e1b4b, #312e81, #4f46e5, #06b6d4);
+}
+.yv{
+    text-align: center;
+    color: white;
+    font-size: 38px;
+}
+.yq li{
+    text-align: center;
+    color: yellow;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

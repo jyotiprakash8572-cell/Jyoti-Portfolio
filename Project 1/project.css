@@ -1,0 +1,21 @@
+.uu{
+     background:linear-gradient(125deg,#1e1b4b, #312e81, #4f46e5, #06b6d4);
+}
+.ii{
+    text-align: center;
+    color: white;
+}
+.yt li{
+    font-size: 40px;
+    color: yellow;
+}
+.yt a{
+      animation: colorChange 2s infinite;
+}
+@keyframes colorChange{
+    10%{color: red;}
+    50%{color: rgb(179, 255, 0);}
+    100%{color: rgb(238, 237, 225);}
+
+}
+
